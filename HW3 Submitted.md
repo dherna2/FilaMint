@@ -1,6 +1,4 @@
-# FilaMint
-
-# Requirements
+# FilaMint Requirements
 
 # Group 4
 
