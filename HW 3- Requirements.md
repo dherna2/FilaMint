@@ -1,26 +1,27 @@
-**FilaMint**
+# FilaMint 
 
-**Requirements**
+# Requirements
 
-**Group 4**
+# Group 4
 
 **ECE 411**
 
 **Version 2.0**
 
-**Need**
+
+## Need
 
 Filament is often improperly stored, which exposes the material to moisture. This exposure to moisture deteriorates the quality of the filament, therefore deteriorating the quality of the user’s print job. Additionally, printers normally will tell you how much filament has been used, but there is usually no way for the printer to measure how much filament is remaining on the spool. Both these issues lead to printing failures. There had to be a solution to fix these common issues for 3D printing enthusiasts. Because this market is starting to become affordable to all, FilaMint was created to become the affordable solution. 
 
-**Objective**
+## Objective
 
 The objective is to create an inexpensive device that will alert the customer if the storage humidity level is too high as well as when the filament is running low. The system must monitor humidity, alert user if humidity is too high, securely store filament in the enclosed and sealed container, and estimate how much filament is remaining.
 
-**Background**
+## Background
 
 A simple google search has shown that there have been similar designs that were created to prevent humidity from getting into the filament, but none that incorporate humidity and weight measurements in the same design. Some designs used a modified ‘air tight storage tote’ or a  large ziplock bag that was then vacuum sealed. These designs were very low cost but didn’t alarm when humidity levels were too high. Some more expensive designs ($150+) looked like a modified desiccator oven that fits filament spools and it was able to regenerate desiccant packs, but this design did not monitor humidity levels or alarms.  None of these designs measured the weight of the filament either. 
 
-**Requirements**
+## Requirements
 
 **Functionality**
 
