@@ -12,6 +12,8 @@ Portland State University
 #include <Wire.h>
 #include <Adafruit_RGBLCDShield.h>
 #include <utility/Adafruit_MCP23017.h>
+#include <math.h>
+
 
 //The shield uses I2C pins
 Adafruit_RGBLCDShield lcd = Adafruit_RGBLCDShield();
@@ -47,6 +49,20 @@ void loop() {
   lcd.clear();
   lcd.setCursor(0,0);
   lcd.setBacklight(ON);
+
+  /*******
+   if(humidity == high){
+   lcd.setCursor(0,1);
+   lcd.print("WARNING: High humidity." + \n + "Please add new silica beads.");
+   lcd.setBacklight(BLUE);}
+
+   if(filament == low){
+   lcd.setCursor(0,1);
+   lcd.print("WARNING: Low Filament.: +\n + "There is approximately " + filament_length + " left.");
+   lcd.setBacklight(BLUE);}
+
+   
+   *******/
 
 }
   
