@@ -1,0 +1,26 @@
+Partlist exported from /Users/Nettaly/Documents/eagle/ECE411/Schematic.sch at 10/31/16 10:55 PM
+
+Part            Value            Device              Package      Description                                                               MF MPN OC_FARNELL OC_NEWARK
+16MHZ           CSM-7X-DU        CSM-7X-DU           CSM-7X-DU    SMD CRYSTAL                                                                      unknown    unknown  
+BAT1            9V               BATTERY9V           BATTCON_9V   Battery Holders                                                                                      
+C1              22p              C-EU025-024X044     C025-024X044 CAPACITOR, European symbol                                                                           
+C2              22p              C-EU025-024X044     C025-024X044 CAPACITOR, European symbol                                                                           
+C3              22p              C-EU025-024X044     C025-024X044 CAPACITOR, European symbol                                                                           
+C4              10u              C-EU025-024X044     C025-024X044 CAPACITOR, European symbol                                                                           
+C5              10u              C-EU025-024X044     C025-024X044 CAPACITOR, European symbol                                                                           
+C6              10u              C-EU025-024X044     C025-024X044 CAPACITOR, European symbol                                                                           
+C7              100n             C-EU025-024X044     C025-024X044 CAPACITOR, European symbol                                                                           
+D1                               LTE-302             LTE-302      Through-hole side-firing 940nm IR LED                                                                
+D2                               LTE-302             LTE-302      Through-hole side-firing 940nm IR LED                                                                
+D3                               LTE-302             LTE-302      Through-hole side-firing 940nm IR LED                                                                
+DHT22                            M04SMD2             1X04-1MM-RA  Header 4                                                                                             
+HX711                            M05SMD              1X05-1MM     Header 5                                                                                             
+IC1             7805DT           7805DT              TO252        Positive VOLTAGE REGULATOR                                                                           
+LCD                              I2C_STANDARD        1X04         SparkFun has standardized on a pinout for all I2C based sensor breakouts.                            
+MICROCONTROLLER                  ATMEGA328P_MLFMLF32 MLF32-PAD    32-Pin Atmega328 part                                                                                
+PROGRAMMER      AVR_SPI_PRG_6PTH AVR_SPI_PRG_6PTH    2X3          AVR ISP 6 Pin                                                                                        
+R1              10k              R-US_0204/5         0204/5       RESISTOR, American symbol                                                                            
+R2              10k              R-US_0204/5         0204/5       RESISTOR, American symbol                                                                            
+R3              10k              R-US_0204/5         0204/5       RESISTOR, American symbol                                                                            
+R4              10k              R-US_0204/5         0204/5       RESISTOR, American symbol                                                                            
+R5              10               R-US_0204/5         0204/5       RESISTOR, American symbol                                                                            
