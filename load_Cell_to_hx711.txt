@@ -1,0 +1,6 @@
+The four wires coming out from the wheatstone bridge on the load cell are usually:
+•Excitation+ (E+) or VCC is red
+•Excitation- (E-) or ground is black.
+•A-, O- or S- is green or blue
+•Amplifier+ (A+), Output+ (O+) or Signal+ (S+) is white
+
