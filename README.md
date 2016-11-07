@@ -1,6 +1,6 @@
 # FilaMint
 
-This is a wiki for Team Filamint to keep track of documents and code 
+This is a readme for Team Filamint to keep track of documents and code 
 
 Collaborators are:
 
