@@ -1,4 +1,4 @@
-# FilaMint
+# FilaMint Team4
 
 This is a readme for Team Filamint to keep track of documents and code 
 
