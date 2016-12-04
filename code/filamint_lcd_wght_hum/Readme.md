@@ -1,29 +1,23 @@
-Notes about connecting various board to arduino.
+Notes about wire connections to arduino, sensors with boards and prototype/Filamint board.  
 
-x Arduino 2-hum_sig_orange,resistor (2nd pin left holes facing up) - 328p pin4
-Needs to fix code to be digital pin 0 for hum_sig
+Arduino 2 - hum_sig-resistor (2nd pin from left with holes facing up) - 328p pin4  
+[Need to fix code to be digital pin 0 for hum_sig to make Filamint board work]
 
-gnd-hum_yellow, lcd_prpl
+gnd: hum(furthest pin right with holes facing up next to empty pin), lcd ("G" written on LCD board)
 
-5v-blue_hum, lcd_yellow
+5v: hum(furthest pin left with holes facing up next to signal pin) , lcd ("P" written on LCD board)
 
-Arduino A5 - SCL-grn - 328p pin28
+Arduino A5 - SCL ("L" written on LCD board) - 328p pin28 
 
-Arduino A4 - SDA-blue - 328p pin27
+Arduino A4 - SDA ("D" written on LCD board) - 328p pin27
 
-HX711 SCK - Arduino A0 - 328p pin23
-Need to fix code to be digital pin8
+Arduino A0 - HX711 SCK -  328p pin23  
+[Need to fix code to be digital pin 8 to make Filamint board work]
 
-HX711 data - Arduino A1 - 328p pin24
-Need to fix code to be analog pin 3
+Arduino A1 - HX711 data - 328p pin24  
+[Need to fix code to be analog pin 3 to make Filamint board work]
 
-Also Need to have the library for LCD installed, adafruit sensors, HX711
-
-Note Rev3 requires the HX711 files to be in the same folder as code
-
-Rev4 solves this by user having to create a library of HX711
-
-
-
-
+Also Need to have the library for LCD installed, adafruit sensors, HX711  
+Rev3 requires the HX711 files to be in the same folder as code  
+Rev4+ solves this by having user create a library called HX711 .h and .cpp files
 
