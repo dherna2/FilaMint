@@ -4,5 +4,8 @@
 
 [logo]: https://github.com/dherna2/FilaMint/blob/master/code/humidity/weather_dhtwiring.gif "Homer is awsome"
 
+Need to unzip both files and save them in your arduino library folder  
 
-To code see tutorial on adafruit [Using a DHTxx Sensor](https://learn.adafruit.com/dht/using-a-dhtxx-sensor)
+Further details on use see adafruit tutorial [Using a DHTxx Sensor](https://learn.adafruit.com/dht/using-a-dhtxx-sensor)  
+
+
