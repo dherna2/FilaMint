@@ -1,7 +1,6 @@
 Notes about connecting various board to arduino.
 
 x Arduino 2-hum_sig_orange,resistor (2nd pin left holes facing up) - 328p pin4
-
 Needs to fix code to be digital pin 0 for hum_sig
 
 gnd-hum_yellow, lcd_prpl
@@ -12,7 +11,7 @@ Arduino A5 - SCL-grn - 328p pin28
 
 Arduino A4 - SDA-blue - 328p pin27
 
-HX711 CLK - Arduino A0 - 328p pin23
+HX711 SCK - Arduino A0 - 328p pin23
 Need to fix code to be digital pin8
 
 HX711 data - Arduino A1 - 328p pin24
