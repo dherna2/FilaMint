@@ -1,6 +1,6 @@
 Notes about connecting various board to arduino.
 
-Arduino 2-hum_sig_orange,resistor (2nd pin left holes facing up) - 328p pin2
+Arduino 2-hum_sig_orange,resistor (2nd pin left holes facing up) - 328p pin4
 
 gnd-hum_yellow, lcd_prpl
 
