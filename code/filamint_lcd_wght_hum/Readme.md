@@ -1,11 +1,11 @@
 Notes about wire connections to arduino, sensors with boards and prototype/Filamint board.  
 
-Arduino 2 - hum_sig-resistor (2nd pin from left with holes facing up) - 328p pin4  
-[Need to fix code to be digital pin 0 for hum_sig to make Filamint board work]
-
 gnd: hum(furthest pin right with holes facing up next to empty pin), lcd ("G" written on LCD board)
 
 5v: hum(furthest pin left with holes facing up next to signal pin) , lcd ("P" written on LCD board)
+
+Arduino 2 - hum_sig-resistor (2nd pin from left with holes facing up) - 328p pin4  
+[Need to fix code to be digital pin 0 for hum_sig to make Filamint board work]
 
 Arduino A5 - SCL ("L" written on LCD board) - 328p pin28 
 
