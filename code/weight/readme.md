@@ -13,3 +13,4 @@ DT->A1
 SCK->A0  
 VCC-> 5v
 
+Need to save this folder into your arduino library folder dont need test folder.
