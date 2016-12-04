@@ -36,8 +36,8 @@ Adafruit_RGBLCDShield lcd = Adafruit_RGBLCDShield();
 //#define btnLEFT   3
 //#define btnSELECT 4
 
-#include "DHT.h"  // test
-#define DHTPIN 0  // updated for filamint board
+#include "DHT.h"
+#define DHTPIN 2
 #define DHTTYPE DHT22
 DHT dht(DHTPIN, DHTTYPE);
 
