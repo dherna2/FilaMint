@@ -10,9 +10,9 @@ Arduino A5 - SCL-grn - 328p pin28
 
 Arduino A4 - SDA-blue - 328p pin27
 
-HX711 CLK - Arduino A0 - 328p pin14
+HX711 CLK - Arduino A0 - 328p pin23
 
-HX711 data - Arduino A1 - 328p pin26
+HX711 data - Arduino A1 - 328p pin24
 
 Also Need to have the library for LCD installed, adafruit sensors, HX711
 
