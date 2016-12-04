@@ -1,18 +1,18 @@
 Notes about connecting various board to arduino.
 
-Arduino 2-hum_sig_orange,resistor
+Arduino 2-hum_sig_orange,resistor (2nd pin left holes facing up) - 328p pin2
 
 gnd-hum_yellow, lcd_prpl
 
 5v-blue_hum, lcd_yellow
 
-Arduino A5-SCL-grn
+Arduino A5 - SCL-grn - 328p pin28
 
-Arduino A4-SDA-blue
+Arduino A4 - SDA-blue - 328p pin27
 
-HX711 CLK - Arduino A0
-HX711 data - Arduino A1
+HX711 CLK - Arduino A0 - 328p pin14
 
+HX711 data - Arduino A1 - 328p pin26
 
 Also Need to have the library for LCD installed, adafruit sensors, HX711
 
