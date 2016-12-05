@@ -31,4 +31,4 @@ Rev4+ solves this by having user create a library called HX711 .h and .cpp files
 
 ![alt text][logo3]
 
-[logo2]: https://github.com/dherna2/FilaMint/blob/master/code/atmega-pinout.png "Homer is awsome"
+[logo3]: https://github.com/dherna2/FilaMint/blob/master/code/atmega-pinout.png "Homer is awsome"
