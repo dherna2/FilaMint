@@ -21,3 +21,11 @@ Also Need to have the library for LCD installed, adafruit sensors, HX711
 Rev3 requires the HX711 files to be in the same folder as code  
 Rev4+ solves this by having user create a library called HX711 .h and .cpp files
 
+![alt text][logo]
+
+[logo]: https://github.com/dherna2/FilaMint/blob/master/code/ece411-t04-filamint-V5.3.jpg "Homer is awsome"
+
+![alt text][logo2]
+
+[logo2]: https://github.com/dherna2/FilaMint/blob/master/code/ece411-t04-filamint-sch-V5.3.jpg "Homer is awsome"
+
