@@ -127,7 +127,9 @@ void loop()
     // Check if any reads failed and exit early (to try again).
     if (isnan(h))
     {
-      Serial.println("Failed to read from DHT sensor!");
+	  lcd.clear();
+	  lcd.setCursor(0,0);
+      lcd.print("Failed to read from DHT sensor!");
       return;
     }
 
