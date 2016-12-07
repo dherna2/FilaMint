@@ -1,6 +1,6 @@
 # FilaMint Team4
 
-## This github was created for ECE411 Practicum  
+## This github was created for ECE411 Practicum Fall 2016  
 
 ### Collaborators are:
 
