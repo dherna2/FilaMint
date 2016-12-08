@@ -9,8 +9,8 @@ Nettaly Rebolledo
 David Hernandez  
 Srijana Sapkota  
 
-We used [Google drive] to simultanelously work on documents. Our finished documents have been transferred to the [Wiki](../../wiki)  
-Or saved in the folder named documents. 
+We used [Google drive] to simultanelously work on documents.  
+Our finished documents have been transferred to the [Wiki](../../wiki) or saved in the folder named documents. 
 
 [Google drive]: https://drive.google.com/drive/u/1/folders/0B7ei5UTStXl6bGFZWWxhMDdIQzQ
 
