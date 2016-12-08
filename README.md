@@ -9,9 +9,8 @@ Nettaly Rebolledo
 David Hernandez  
 Srijana Sapkota  
 
-[Google drive] to Documents but requires permission. This was used to simultanelously work on documents.  
-Note our finished documents have been transferred to the [Wiki](../../wiki)  
-Otherwise they are here on this main page.  
+We used [Google drive] to simultanelously work on documents. Our finished documents have been transferred to the [Wiki](../../wiki)  
+Or saved in the folder named documents. 
 
 [Google drive]: https://drive.google.com/drive/u/1/folders/0B7ei5UTStXl6bGFZWWxhMDdIQzQ
 
